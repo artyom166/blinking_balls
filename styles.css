@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    position: relative; 
+  }
+  
+
+  
+  button#click {
+    position: absolute;
+    top: 44px;
+    right: 122px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: solid black;
+    cursor: pointer;
+    border-radius: 50px;
+  }
+  button#hint{
+    position: absolute;
+    top: 44px;
+    right: 222px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: solid black;
+    cursor: pointer;
+    border-radius: 45px;
+  }
+
+  button#restart{
+    display: none;
+    position: absolute;
+    top: 44px;
+    right: 322px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #bcc5ce;
+    color: #fff;
+    border: solid black;
+    cursor: pointer;
+    border-radius: 45px;
+  }
+  button#click:hover {
+    background-color: #0056b3;
+  }
+  html{
+      background-image: url("images/bg.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      overflow: hidden;
+  }
