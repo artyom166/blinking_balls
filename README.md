@@ -21,4 +21,31 @@ ______________________________________________________________________________
 
 Setup
 
-Clone the repository:
+1.Clone the repository:
+https://github.com/artyom166/blinking_balls.git
+2.Open index.html in your web browser to play the game.
+
+______________________________________________________________________________
+
+How to Play
+
+• Click on balls to earn points.
+• Avoid clicking on balls that aren't blinking or are blinking incorrectly.
+• Use hints sparingly as they are limited.
+• Score as many points as possible before losing all lives.
+
+Technologies Used
+
+• HTML5 Canvas
+• JavaScript
+
+______________________________________________________________________
+
+Acknowledgments
+
+•  Sounds obtained from FreeSound.org.
+•  Inspiration and guidance from various online tutorials and resources.
+
+
+
+
